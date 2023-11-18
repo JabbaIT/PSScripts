@@ -45,8 +45,8 @@
 		===========================================================================
 		Created on:   	16/11/2023 19:07
 		Created by:   	Jamie Price
-		Filename:		Copy-FileToDirectories.ps1
-		Version: 		1.0
+		Filename:	Copy-FileToDirectories.ps1
+		Version: 	1.0
 		===========================================================================
 #>
 [CmdletBinding()]
