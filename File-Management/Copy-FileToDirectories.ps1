@@ -44,9 +44,10 @@
 	.NOTES
 		===========================================================================
 		Created on:   	16/11/2023 19:07
-		Created by:   	Jamie Price
+		Created by:   	Jay Price
 		Filename:	Copy-FileToDirectories.ps1
-		Version: 	1.0
+		 Version History:
+            1.0 - 16/11/2023 - Initial release
 		===========================================================================
 #>
 [CmdletBinding()]
